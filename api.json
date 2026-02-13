@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/fresno-nightcrawlers",
     "maintainers": [
       {
@@ -18,443 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "fresno-nightcrawlers",
     "name": "Fresno Nightcrawlers",
-    "aliases": [
-      {
-        "name": "Nightcrawlers",
-        "region": "California, USA"
-      },
-      {
-        "name": "Fresno Aliens",
-        "region": "California, USA"
-      }
-    ],
+    "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Humanoid",
+    "subcategory": "Unknown bipedal",
     "tags": [
-      "humanoid",
-      "bipedal",
-      "small-creature",
-      "california",
-      "video-evidence",
-      "internet-phenomenon",
-      "likely-hoax"
+      "folklore",
+      "mythology"
     ],
-    "status": "disputed",
+    "status": "documented",
     "description": {
-      "summary": "Small white bipedal creatures that appear to be legs only, with no visible body or arms. Known from two pieces of surveillance footage from California.",
-      "full": "The Fresno Nightcrawlers are mysterious entities captured on surveillance video in Fresno, California (2007) and Yosemite (2011). The creatures appear as short, white or pale figures with long legs and no discernible torso, arms, or head—giving them a distinctive 'walking pants' appearance. Standing 2-4 feet tall, they move with a wadding bipedal gait. While some claim connections to Native American folklore (specifically the Yokuts tribe), these claims are disputed. Most experts consider the videos to be hoaxes, likely created using stilts covered with white fabric, as this would be simple to fabricate. Despite high hoax probability, the Nightcrawlers have become an internet and paranormal TV phenomenon."
+      "summary": "The Fresno Nightcrawlers are mysterious entities captured on surveillance video in Fresno, California (2007) and Yosemite (2011).",
+      "full": "The Fresno Nightcrawlers are mysterious entities captured on surveillance video in Fresno, California (2007) and Yosemite (2011). The creatures appear as short, white or pale figures with long legs and no discernible torso, arms, or head—giving them a distinctive \\\"walking pants\\\" appearance. Standing 2-4 feet tall, they move with a wadding bipedal gait. While some claim connections to Native American folklore (specifically the Yokuts tribe), these claims are disputed. Most experts consider the videos to be hoaxes, likely created using stilts covered with white fabric, as this would be simple to fabricate. Despite high hoax probability, the Nightcrawlers have become an internet and paranormal TV phenomenon."
     },
     "etymology": {
-      "origin": "Named after Fresno, California, where the first footage was recorded in 2007",
-      "meaning": "Refers to nocturnal nature of sightings and leg-like appearance",
-      "first_use": "2007"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Humanoid",
-      "subtype": "Unknown bipedal",
-      "variant": "California"
+      "type": "Unknown bipedal",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "dover-demon",
-        "name": "Dover Demon",
-        "relationship": "similar",
-        "description": "Another small humanoid cryptid"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 0.6,
-        "max": 1.2,
-        "unit": "meters",
-        "confidence": "medium"
-      },
-      "weight": {
-        "min": 10,
-        "max": 30,
-        "unit": "kilograms",
-        "confidence": "low"
-      },
-      "coloration": [
-        "white",
-        "pale gray"
-      ],
-      "features": [
-        {
-          "feature": "Leg-like body",
-          "description": "Entire body appears to be comprised of legs with no visible torso",
-          "frequency": "always"
-        },
-        {
-          "feature": "No visible arms",
-          "description": "No appendages visible above the legs",
-          "frequency": "always"
-        },
-        {
-          "feature": "Minimal head",
-          "description": "Small knob-like protrusion at top, no facial features visible",
-          "frequency": "common"
-        },
-        {
-          "feature": "Pants-like appearance",
-          "description": "Resembles walking trousers or fabric",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Appears as two long legs with minimal upper body structure. Movement suggests flexible joints. White or pale coloration throughout."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Bipedal locomotion",
-        "description": "Walks upright on two legs with distinctive wadding gait",
-        "frequency": "always",
-        "evidence_level": "documented"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "neutral",
-      "social_structure": "pairs observed",
-      "habitat_preference": [
-        "residential areas",
-        "parks",
-        "lawns"
-      ],
-      "diet": "Unknown",
-      "patterns": [
-        "Appears in pairs",
-        "Slow, deliberate movement",
-        "Nocturnal activity only"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Limited to two documented locations in California",
-      "continents": ["North America"],
-      "countries": ["United States"],
-      "regions": [
-        "Fresno, California",
-        "Yosemite National Park"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Fresno Residence",
-        "location": {
-          "description": "Private residence in Fresno",
-          "country": "United States",
-          "region": "California",
-          "coordinates": {
-            "latitude": 36.7378,
-            "longitude": -119.7871,
-            "precision": "city"
-          }
-        },
-        "sighting_count": 1,
-        "peak_period": "2007",
-        "notes": "Original footage captured on home security camera by Jose"
-      },
-      {
-        "name": "Yosemite National Park",
-        "location": {
-          "description": "Yosemite National Park",
-          "country": "United States",
-          "region": "California",
-          "coordinates": {
-            "latitude": 37.8651,
-            "longitude": -119.5383,
-            "precision": "approximate"
-          }
-        },
-        "sighting_count": 1,
-        "peak_period": "2011",
-        "notes": "Second video footage with similar appearance"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "2007",
-        "circa": false,
-        "source": "Jose security camera footage"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "2007-2011",
-          "description": "Two documented video incidents"
-        }
-      ],
-      "seasonal_patterns": "Insufficient data"
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Claims of Yokuts tribe Native American connection are disputed and likely fabricated",
-      "earliest_accounts": "2007 security camera footage from Fresno",
-      "folklore_connections": "No verified folklore connections despite claims"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "2007-11",
-        "event": "First Fresno footage",
-        "significance": "Jose captures strange bipedal creatures on home security camera",
-        "source": "Original video footage"
-      },
-      {
-        "date": "2011-03",
-        "event": "Yosemite footage",
-        "significance": "Second video emerges from Yosemite National Park showing similar creatures",
-        "source": "Video footage"
-      },
-      {
-        "date": "2010s",
-        "event": "Internet phenomenon",
-        "significance": "Videos spread online, featured on paranormal TV shows",
-        "source": "Internet culture, TV broadcasts"
-      }
-    ],
-    "modern_era": "The Fresno Nightcrawlers have become an internet meme and are frequently featured on paranormal television shows. Despite their popularity, only two pieces of video evidence exist, and skeptics consider them easily fabricated hoaxes."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
-      "total_documented": 2,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 2,
-      "debunked": 0,
-      "date_range": {
-        "earliest": "2007",
-        "latest": "2011"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "nightcrawlers-2007-fresno",
-        "name": "Fresno Security Footage",
-        "date": {
-          "value": "2007-11",
-          "precision": "month"
-        },
-        "location": {
-          "description": "Private residence, Fresno",
-          "country": "United States",
-          "region": "California",
-          "locality": "Fresno",
-          "coordinates": {
-            "latitude": 36.7378,
-            "longitude": -119.7871,
-            "precision": "city"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Homeowner"],
-          "credibility_factors": ["Video evidence", "Unknown background"]
-        },
-        "description": "Jose, a Fresno homeowner, captured footage on his home security camera showing two small, white, bipedal figures walking across his front lawn. The creatures appeared to be approximately 2-4 feet tall with no visible body above the legs, creating a 'walking pants' appearance. They moved with a distinctive wadding gait.",
-        "conditions": {
-          "weather": "Clear",
-          "visibility": "Night vision camera",
-          "time_of_day": "Night",
-          "duration": "Brief"
-        },
-        "evidence": [
-          "Security camera video footage"
-        ],
-        "credibility": {
-          "rating": "low",
-          "factors": [
-            "Video quality makes analysis difficult",
-            "Simple to fake with stilts and fabric",
-            "No corroborating evidence",
-            "No additional sightings in area"
-          ],
-          "notes": "Most experts consider this a hoax due to the ease of fabrication using stilts covered with white fabric."
-        },
-        "sources": [
-          "Original video footage",
-          "Paranormal TV show analyses"
-        ],
-        "featured": true
-      },
-      {
-        "id": "nightcrawlers-2011-yosemite",
-        "name": "Yosemite Footage",
-        "date": {
-          "value": "2011-03",
-          "precision": "month"
-        },
-        "location": {
-          "description": "Yosemite National Park",
-          "country": "United States",
-          "region": "California",
-          "locality": "Yosemite",
-          "coordinates": {
-            "latitude": 37.8651,
-            "longitude": -119.5383,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Unknown"],
-          "credibility_factors": ["Video evidence"]
-        },
-        "description": "Second video footage emerged showing similar creatures in Yosemite National Park. The figures displayed the same characteristics as the Fresno footage: white coloration, bipedal movement, leg-only appearance.",
-        "conditions": {
-          "weather": "Unknown",
-          "visibility": "Night vision",
-          "time_of_day": "Night",
-          "duration": "Brief"
-        },
-        "evidence": [
-          "Video footage"
-        ],
-        "credibility": {
-          "rating": "low",
-          "factors": [
-            "Similar to Fresno footage",
-            "Easily fabricated",
-            "No additional context provided"
-          ],
-          "notes": "Likely copycat hoax following Fresno footage popularity."
-        },
-        "sources": [
-          "Video footage"
-        ],
-        "featured": true
-      }
-    ],
+    "notable": [],
     "database_path": "./sightings/"
   },
-
   "evidence": {
     "physical": [],
     "photographic": [],
-    "video": [
-      {
-        "id": "nightcrawlers-fresno-2007",
-        "type": "video",
-        "name": "Fresno Security Footage",
-        "date": "2007-11",
-        "description": "Security camera footage showing two white bipedal figures",
-        "status": "disputed",
-        "analysis": "Low quality makes definitive analysis impossible. Consistent with simple stilt-and-fabric hoax.",
-        "source": "Jose (homeowner)"
-      },
-      {
-        "id": "nightcrawlers-yosemite-2011",
-        "type": "video",
-        "name": "Yosemite Footage",
-        "date": "2011-03",
-        "description": "Similar footage from Yosemite National Park",
-        "status": "disputed",
-        "analysis": "Similar characteristics to Fresno footage. Likely copycat.",
-        "source": "Unknown"
-      }
-    ],
+    "video": [],
     "audio": [],
     "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Unknown Cryptid",
-        "description": "A genuinely unknown species of small bipedal creature",
-        "proponents": ["Some paranormal investigators"],
-        "evidence_cited": ["Two separate video recordings", "Consistent appearance"]
-      },
-      {
-        "name": "Native American Spirit",
-        "description": "Connection to Yokuts tribe folklore (disputed)",
-        "proponents": ["Some paranormal enthusiasts"],
-        "evidence_cited": ["Claimed folklore connections"]
-      }
-    ],
+    "paranormal": [],
     "scientific": [],
-    "skeptical": [
-      {
-        "name": "Puppet/Stilt Hoax",
-        "description": "Videos show simple hoax created with stilts covered in white fabric",
-        "proponents": ["Most skeptical investigators"],
-        "evidence_cited": ["Ease of fabrication", "No physical evidence", "Movement consistent with stilts", "Only two videos despite claims"]
-      },
-      {
-        "name": "CGI",
-        "description": "Computer-generated imagery or video manipulation",
-        "proponents": ["Some skeptics"],
-        "evidence_cited": ["Low video quality allows manipulation", "Internet phenomenon timing"]
-      },
-      {
-        "name": "Misidentified Animals with Cloth",
-        "description": "Birds or small animals with fabric or material attached",
-        "proponents": ["Alternative skeptical explanation"],
-        "evidence_cited": ["Bipedal movement of some birds"]
-      }
-    ]
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
       "traditions": [],
       "stories": [],
-      "beliefs": "Claims of Yokuts Native American connections are disputed and likely fabricated for credibility."
-    },
-    "indigenous": {
-      "cultures": [],
-      "significance": "No verified Indigenous connections",
-      "sensitivity_note": "Claims of Yokuts tribe connections appear to be fabricated. No legitimate tribal sources support these claims.",
-      "respect_guidelines": "Do not perpetuate false claims of Indigenous folklore connections."
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
       "literature": [],
-      "film_tv": [
-        "Fact or Faked: Paranormal Files (SyFy)",
-        "Various paranormal investigation shows"
-      ],
+      "film_tv": [],
       "games": [],
-      "other": [
-        "Internet meme",
-        "YouTube phenomenon",
-        "Merchandise and art"
-      ]
+      "other": []
     }
   },
-
   "research": {
     "researchers": [],
     "organizations": [],
-    "ongoing_studies": "No serious scientific research ongoing. Considered likely hoax by most investigators."
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "fresno-footage-2007",
-      "type": "video",
-      "title": "Fresno Nightcrawlers Original Footage",
-      "date": "2007",
-      "description": "Original security camera footage"
-    },
-    {
-      "id": "yosemite-footage-2011",
-      "type": "video",
-      "title": "Yosemite Nightcrawlers Footage",
-      "date": "2011",
-      "description": "Second video footage"
-    }
-  ]
+  "sources": []
 }
